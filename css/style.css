@@ -1,0 +1,17 @@
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+body{background-image: url(https://wallpapercave.com/wp/wp3408013.jpg);background-repeat: no-repeat; background-size: cover;}
+.header{ width: 100%; z-index: -1}
+h1 {color:white; margin:auto; position: absolute; z-index: 1;}
+.container-header{ margin: 3% 0% 2% 0%}
+.color {background-color: black}
+.story {margin: 5% 5% 5% 5%;background-color: black; color: silver}
+.logo {height:2.8em; margin: 5% 10% 5% 10%}
+.card{margin: 5% 10% 5% 10%;}
+h2 {margin: 5% 5% 5% 5%; text-align: center;}
+.proximo{margin: 5% 5% 5% 5%}
+.mapa{ margin: 5% 5% 5% 5%}
